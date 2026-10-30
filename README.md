@@ -1,7 +1,6 @@
 # SPORIX README Generator
 
-A lightweight R-based command-line tool to generate standardized README files for projects and resources within **SPORIX_LAB**.
-
+A lightweight R-based command-line tool to generate standardized README files for projects and resources within **SPORIX**.
 The generator provides predefined templates to document:
 
 - Research projects
